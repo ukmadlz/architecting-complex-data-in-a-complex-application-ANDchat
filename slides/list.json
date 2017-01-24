@@ -1,15 +1,63 @@
 [
-  "index.md",
-  {
-    "filename": "notice.md",
-    "attr": {
-      "id": "notice"
-    }
-  },
-  {
-    "filename": "author.md",
-    "attr": {
-      "id": "author"
-    }
-  }
+    "index.md",
+    {
+        "filename": "notice.md",
+        "attr": {
+            "id": "notice"
+        }
+    },
+    {
+        "filename": "author.md",
+        "attr": {
+            "id": "author"
+        }
+    },
+    [
+        "where-i-work.html",
+        "what-i-work-with.html"
+    ],
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/prototype-gun.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/flint-lockwood-typing.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/hinky-bridge.gif"
+        }
+    },
+    "author-20.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/bruce-almighty-typing.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/smart-building.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/little-rubber-duck.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/giant-rubber-duck.gif"
+        }
+    },
+    "a-bit-of-backstory.md"
 ]
