@@ -54,3 +54,19 @@ a {
   .reveal table td {
     text-align: center;
   }
+
+  /*
+    Reveal Font Awesome Sizes
+  */
+  .reveal .fa.fa-2x {
+    font-size: 2em;
+  }
+  .reveal .fa.fa-3x {
+    font-size: 3em;
+  }
+  .reveal .fa.fa-4x {
+    font-size: 4em;
+  }
+  .reveal .fa.fa-5x {
+    font-size: 5em;
+  }

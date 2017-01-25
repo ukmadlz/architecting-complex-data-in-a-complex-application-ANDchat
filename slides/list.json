@@ -59,5 +59,30 @@
             "data-background": "images/gifs/giant-rubber-duck.gif"
         }
     },
-    "a-bit-of-backstory.md"
+    "a-bit-of-backstory.md",
+    "ibm-blue-unicorn.md",
+    "build.html",
+    "rules.html",
+    "a-project-named.md",
+    "ambrosia.md",
+    "not-quite-food-of-the-gods.md",
+    "nutrition-as-a-service.md",
+    "these-nerds.html",
+    "basically.md",
+    "maston.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/beautiful-mind.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/translate.gif"
+        }
+    },
+    "just-add-data.md",
+    "csv.html",
+    "its-a-graph.md"
 ]
