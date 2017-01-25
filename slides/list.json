@@ -1,0 +1,213 @@
+[
+    "index.md",
+    {
+        "filename": "notice.md",
+        "attr": {
+            "id": "notice"
+        }
+    },
+    {
+        "filename": "author.md",
+        "attr": {
+            "id": "author"
+        }
+    },
+    [
+        "where-i-work.html",
+        "what-i-work-with.html"
+    ],
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/prototype-gun.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/flint-lockwood-typing.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/hinky-bridge.gif"
+        }
+    },
+    "author-20.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/bruce-almighty-typing.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/smart-building.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/not-sorry.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/little-rubber-duck.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/giant-rubber-duck.gif"
+        }
+    },
+    "a-bit-of-backstory.md",
+    "ibm-blue-unicorn.md",
+    "build.html",
+    "rules.html",
+    "a-project-named.md",
+    "ambrosia.md",
+    "not-quite-food-of-the-gods.md",
+    "nutrition-as-a-service.md",
+    "these-nerds.html",
+    "basically.md",
+    "maston.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/beautiful-mind.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/translate.gif"
+        }
+    },
+    "just-add-data.md",
+    "csv-1.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/aladin-idea.gif"
+        }
+    },
+    "its-a-graph.md",
+    "logical-graph-model.md",
+    "logical-graph-model-image.md",
+    "make-sprints.md",
+    "ibm-version.md",
+    "ibm-design.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/house-typing.gif"
+        }
+    },
+    "csv-to-graph.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/mini-me-fist-pump.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/gregory-peck-whoops.gif"
+        }
+    },
+    "csv-2.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/obi-wan-rethink.gif"
+        }
+    },
+    "datawarehouse.md",
+    "datawarehouse-to-graph.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/alex-grigg-typing.gif"
+        }
+    },
+    "api-time.md",
+    "moar-spec-sprints-milestones-etc.md",
+    "write-permissions-denied.md",
+    "add-a-logial-api.md",
+    "api.md",
+    "api-architecture.html",
+    "once-againre-evaluate.md",
+    "poor-performance.md",
+    "graphs-are-expensive.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/gru-light-bulb.gif"
+        }
+    },
+    "add-caching.md",
+    "add-a-gateway.md",
+    "gateway-archtecture.html",
+    "re-spec-re-order-sprints-etc.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/kirk-stahp.gif"
+        }
+    },
+    "meetings-deadlines.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/trash-idea.gif"
+        }
+    },
+    "issue-driven-development.md",
+    "ordered-features-as-milestones.md",
+    "assigned-issues-to-milestones.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/thumbs-up.gif"
+        }
+    },
+    "stack-keeps-evolving.md",
+    "user-management.md",
+    "user-management-architecture.html",
+    "tokenised-access.md",
+    "tokenised-architecture.html",
+    "george.md",
+    "try-watson.md",
+    "try-watson-fail.md",
+    "try-tensorflow.md",
+    "try-tensorflow-fail.md",
+    "try-apache-spark.md",
+    "george-architecture.html",
+    "as-it-standsthats-it.md",
+    "ambosia-architecture.md",
+    "we-had-to-skip.md",
+    "logging.md",
+    "read-only-gremlin.md",
+    "the-dashboard.md",
+    "we-did-land-a-product.md",
+    "conclusion.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/ukmadlz-im-out.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/deal-with-it.gif"
+        }
+    },
+    "questions.md"
+]
