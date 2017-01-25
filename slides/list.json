@@ -98,5 +98,48 @@
     },
     "its-a-graph.md",
     "logical-graph-model.md",
-    "logical-graph-model-image.md"
+    "logical-graph-model-image.md",
+    "make-sprints.md",
+    "ibm-version.md",
+    "ibm-design.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/house-typing.gif"
+        }
+    },
+    "csv-to-graph.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/mini-me-fist-pump.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/gregory-peck-whoops.gif"
+        }
+    },
+    "csv-2.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/obi-wan-rethink.gif"
+        }
+    },
+    "datawarehouse.md",
+    "datawarehouse-to-graph.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/alex-grigg-typing.gif"
+        }
+    },
+    "api-time.md",
+    "moar-spec-sprints-milestones-etc.md",
+    "write-permissions-denied.md",
+    "add-a-logial-api.md",
+    "api.md",
+    "api-architecture.html"
 ]
