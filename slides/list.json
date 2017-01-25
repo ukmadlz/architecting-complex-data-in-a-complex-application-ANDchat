@@ -141,5 +141,73 @@
     "write-permissions-denied.md",
     "add-a-logial-api.md",
     "api.md",
-    "api-architecture.html"
+    "api-architecture.html",
+    "once-againre-evaluate.md",
+    "poor-performance.md",
+    "graphs-are-expensive.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/gru-light-bulb.gif"
+        }
+    },
+    "add-caching.md",
+    "add-a-gateway.md",
+    "gateway-archtecture.html",
+    "re-spec-re-order-sprints-etc.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/kirk-stahp.gif"
+        }
+    },
+    "meetings-deadlines.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/trash-idea.gif"
+        }
+    },
+    "issue-driven-development.md",
+    "ordered-features-as-milestones.md",
+    "assigned-issues-to-milestones.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/thumbs-up.gif"
+        }
+    },
+    "stack-keeps-evolving.md",
+    "user-management.md",
+    "user-management-architecture.html",
+    "tokenised-access.md",
+    "tokenised-architecture.html",
+    "george.md",
+    "try-watson.md",
+    "try-watson-fail.md",
+    "try-tensorflow.md",
+    "try-tensorflow-fail.md",
+    "try-apache-spark.md",
+    "george-architecture.html",
+    "as-it-standsthats-it.md",
+    "ambosia-architecture.md",
+    "we-had-to-skip.md",
+    "logging.md",
+    "read-only-gremlin.md",
+    "the-dashboard.md",
+    "we-did-land-a-product.md",
+    "conclusion.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/ukmadlz-im-out.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/deal-with-it.gif"
+        }
+    },
+    "questions.md"
 ]
