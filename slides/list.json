@@ -50,6 +50,12 @@
     {
         "filename": "blank.md",
         "attr": {
+            "data-background": "images/gifs/not-sorry.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
             "data-background": "images/gifs/little-rubber-duck.gif"
         }
     },
@@ -83,6 +89,14 @@
         }
     },
     "just-add-data.md",
-    "csv.html",
-    "its-a-graph.md"
+    "csv-1.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/gifs/aladin-idea.gif"
+        }
+    },
+    "its-a-graph.md",
+    "logical-graph-model.md",
+    "logical-graph-model-image.md"
 ]
